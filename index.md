@@ -47,6 +47,7 @@ page_sections:
     content: Rotate to see categorized images in groups
   col_3:
     headline: DRAG & TAG
+    content: Drag and tag thousands of images with simple UI in secs
   col_4:
     headline: TRAIN
     content: ffff
