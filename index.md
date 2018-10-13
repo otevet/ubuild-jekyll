@@ -81,4 +81,3 @@ page_sections:
   content: Hello world! ❤︎
 
 ---
-foo bar
