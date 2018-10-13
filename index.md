@@ -30,22 +30,29 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: TRY IT FOR FREE
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: ''
     alt_text: Product Shot
   background_image: "/uploads/2018/10/13/Screen Shot 2018-10-13 at 18.18.08.png"
   cta-2:
     button_text: CONTACT US
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Upload
+  col_2:
+    headline: Rotate
+  col_3:
+    headline: Drag & Tag
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  headline: "<strong>Create deep learning apps in minutes.</strong>"
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: ''
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -55,7 +62,7 @@ page_sections:
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: ''
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
@@ -65,7 +72,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: ''
   caption: All Available Blocks
 - template: detail-content
   block: text-1
@@ -81,6 +88,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: text-2
+  block: text-1
 
 ---
 foo bar
