@@ -1,7 +1,8 @@
 ---
 label: page-builder
 hide_body: true
-is_partial: false
+is_partial: true
+display_field: page_sections
 fields:
 - type: text
   label: Title
