@@ -44,6 +44,7 @@ page_sections:
     content: Upload your unlabeled images to Platform.ai
   col_2:
     headline: ROTATE
+    content: Rotate to see categorized images in groups
   col_3:
     headline: DRAG & TAG
   col_4:
