@@ -32,3 +32,11 @@ fields:
     name: column
     label: Column
     template: text-column
+- type: field_group
+  name: col_4
+  label: Column 4
+  fields:
+  - type: include
+    name: column
+    label: Column
+    template: text-column
