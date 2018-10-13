@@ -50,7 +50,7 @@ page_sections:
     content: Drag and tag thousands of images with simple UI in secs
   col_4:
     headline: TRAIN
-    content: ffff
+    content: Train machine learning algorithm and create your own solution
 - template: content-feature
   block: feature-1
   media_alignment: Left
