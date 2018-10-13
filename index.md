@@ -49,7 +49,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: UPLOAD
-    content: <img src="/uploads/2018/10/13/Screen Shot 2018-10-13 at 16.46.38.png"><br>Upload
+    content: <img src="/uploads/2018/10/13/Screen Shot 2018-10-13 at 22.24.48.png"><br>Upload
       your unlabeled images to Platform.ai<br>
   col_2:
     headline: ROTATE
