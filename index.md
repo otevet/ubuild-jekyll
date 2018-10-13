@@ -90,6 +90,8 @@ page_sections:
   content: Hello world! ❤︎
 - template: text-2
   block: text-1
+  headline: headline
+  content: "<p>headlinessssss</p>"
 
 ---
 foo bar
