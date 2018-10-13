@@ -40,11 +40,14 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Upload
+    headline: UPLOAD
+    content: Upload your unlabeled images to Platform.ai
   col_2:
-    headline: Rotate
+    headline: ROTATE
   col_3:
-    headline: Drag & Tag
+    headline: DRAG & TAG
+  col_4:
+    headline: TRAIN
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -91,7 +94,7 @@ page_sections:
 - template: text-2
   block: text-1
   headline: headline
-  content: "<p>headlinessssss</p>"
+  content: "<p>headliness</p>"
 
 ---
 foo bar
