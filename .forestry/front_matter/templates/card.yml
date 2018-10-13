@@ -1,0 +1,9 @@
+---
+label: card
+hide_body: false
+is_partial: true
+display_field: cards
+fields:
+- type: field_group
+  label: cards
+  name: cards
