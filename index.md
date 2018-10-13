@@ -21,8 +21,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: GET STARTED
-- template: navigation-header
-  block: header-1
 - template: hero-banner-w-image
   block: hero-2
   headline: Deep Learning,<br>Anyone Can Use. <br>
@@ -34,7 +32,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/2018/10/13/Screen Shot 2018-10-13 at 18.18.08.png"
   cta-2:
     button_text: CONTACT US
     enabled: true
