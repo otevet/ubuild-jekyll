@@ -6,6 +6,7 @@ fields:
 - type: text
   label: Title
   name: title
+  default: hello
 - type: text
   name: layout
   label: Layout
