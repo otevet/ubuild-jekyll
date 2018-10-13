@@ -21,6 +21,8 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: GET STARTED
+- template: navigation-header
+  block: header-1
 - template: hero-banner-w-image
   block: hero-2
   headline: Deep Learning,<br>Anyone Can Use. <br>
@@ -35,6 +37,8 @@ page_sections:
   background_image: ''
   cta-2:
     button_text: CONTACT US
+    enabled: true
+    url: https://github.com/forestryio/ubuild-jekyll
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -81,3 +85,4 @@ page_sections:
   content: Hello world! ❤︎
 
 ---
+foo bar
