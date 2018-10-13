@@ -48,6 +48,7 @@ page_sections:
     headline: DRAG & TAG
   col_4:
     headline: TRAIN
+    content: ffff
 - template: content-feature
   block: feature-1
   media_alignment: Left
