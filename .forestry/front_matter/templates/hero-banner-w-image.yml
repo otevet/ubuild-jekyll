@@ -48,3 +48,16 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- type: field_group
+  fields:
+  - type: boolean
+    label: Enabled
+    name: enabled
+  - type: text
+    label: url
+    name: url
+  - type: text
+    label: button text
+    name: button_text
+  label: Call-to-action2
+  name: cta-2
