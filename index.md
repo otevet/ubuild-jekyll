@@ -23,7 +23,7 @@ page_sections:
     button_text: GET STARTED
 - template: hero-banner-w-image
   block: hero-2
-  headline: Deep Learning,<br>Anyone Can Use. <br>
+  headline: Deep Learning,<br>anyone can use. <br>
   content: Train an accurate image classification model in minutes with zero coding
   cta:
     enabled: true
@@ -37,11 +37,20 @@ page_sections:
     button_text: CONTACT US
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Create deep learning apps in minutes.</strong>"
+  content: ''
+  media:
+    image: ''
+    alt_text: uBuild Blocks Mock-Up
 - template: 3-column-text
   block: three-column-1
   col_1:
     headline: UPLOAD
-    content: Upload your unlabeled images to Platform.ai
+    content: Upload your unlabeled images to Platform.ai<br><img src="/uploads/2018/10/13/Screen
+      Shot 2018-10-13 at 16.46.38.png">
   col_2:
     headline: ROTATE
     content: Rotate to see categorized images in groups
@@ -53,20 +62,10 @@ page_sections:
     content: Train machine learning algorithm and create your own solution
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: "<strong>Create deep learning apps in minutes.</strong>"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: ''
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Get inspired by some samples.</strong>"
+  content: Combining human visual pattern recognition with AI's power.<br>Platform.ai
+    helps all industries with huge datasets to quickly create your own novel applications.
   media:
     image: ''
     alt_text: Customize Blocks
@@ -91,13 +90,11 @@ page_sections:
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
-- template: text-2
-  block: text-1
-  headline: headline
-  content: "<p>headliness</p>"
+- template: 4-column-footer
+  block: footer-2
+  col_2: Overview
+  col_3: Samples
+  col_4: Pricing
 
 ---
 foo bar
