@@ -46,20 +46,8 @@ fields:
   - type: text
     name: url
     label: url
+    default: www.whatever.com
   - type: text
     name: button_text
     label: Button text
-- type: field_group
-  fields:
-  - type: boolean
-    label: Enabled
-    name: enabled
-    default: false
-  - type: text
-    label: url
-    name: url
-  - type: text
-    label: button text
-    name: button_text
-  label: Call-to-action2
-  name: cta-2
+    default: click me
