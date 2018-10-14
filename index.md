@@ -62,7 +62,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Get inspired by some samples.</strong>"
+  headline: "<strong>Get inspired by our samples.</strong>"
   content: Combining human visual pattern recognition with AI's power.<br>Platform.ai
     helps all industries with huge datasets to quickly create your own novel applications.
   media:
