@@ -2,10 +2,8 @@
 background-color: #673AB7 !important;
 }
 
-
-
-nav.ul { color: black !important;}
-
-nav.ul a { color: black !important;}
+html {
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
 
 nav ul a { color: black !important;}
