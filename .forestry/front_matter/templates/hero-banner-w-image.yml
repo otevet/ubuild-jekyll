@@ -42,6 +42,7 @@ fields:
   - type: boolean
     name: enabled
     label: Enabled
+    default: true
   - type: text
     name: url
     label: url
@@ -53,6 +54,7 @@ fields:
   - type: boolean
     label: Enabled
     name: enabled
+    default: false
   - type: text
     label: url
     name: url
