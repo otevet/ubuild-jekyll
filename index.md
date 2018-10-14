@@ -35,7 +35,7 @@ page_sections:
   background_image: "/uploads/2018/10/13/Screen Shot 2018-10-13 at 18.18.08.png"
   cta-2:
     button_text: CONTACT US
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
 - template: content-feature
   block: feature-1
