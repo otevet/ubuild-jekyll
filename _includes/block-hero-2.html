@@ -9,7 +9,7 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         <p>{{ section.content }}</p>
         {% if section.cta and section.cta.enabled == true %}
         
-        <a class="waves-effect waves-light btn" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
+        <a class="waves-effect waves-light btn" style="background-color: #ee261b"  href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
         {% endif %}
       </div>
       <div class="column media">
@@ -18,3 +18,16 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
     </div>
   </div>
 </section>
+
+
+<style>
+  nav ul a { 
+  color: black !important;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+}
+     
+</style>
